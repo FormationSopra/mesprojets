@@ -1,3 +1,4 @@
 contenu de fichier 1
 Ligne ajoutee ultérieurement
 aa
+ligne ajoutée dans ma fonction
